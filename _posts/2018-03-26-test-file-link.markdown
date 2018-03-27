@@ -12,7 +12,8 @@ Listen here
 [Link](/_pods/episode_one')
 
 
-Shownotes
 
-12:21 External Link
-31:21 External Link
+> Shownotes
+> 12:21 External Link
+> 31:21 External Link
+{: .showNotes}
