@@ -68,6 +68,10 @@ a {
 a:hover {
   text-decoration: underline; }
 
+.showNotes {
+  background: #778899;
+  color: #F8F8FF; }
+
 pre {
   border-left: 8px solid #ddd;
   margin: 32px 0;
