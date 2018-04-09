@@ -1,0 +1,11 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+This is a Jekyll blog 
+Cool
+
+I modified the templates to pull in mp3 files from an assets directory and allow it to be included in the page through a yaml element and liquid variable.
+Cool
